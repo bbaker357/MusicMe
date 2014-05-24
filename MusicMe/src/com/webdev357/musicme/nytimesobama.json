@@ -1,0 +1,287 @@
+{
+	"responseData":{
+		"results":[
+			{
+				"GsearchResultClass":"GnewsSearch",
+				"clusterUrl":"http://news.google.com/news/story?ncl\u003ddDIB0Iqi8A9rTxMBXXFw-_yPWsSLM\u0026hl\u003den\u0026ned\u003dus",
+				"content":"President \u003cb\u003eObama\u003c/b\u003e deplored on Friday what he called a Republican campaign to deny voting rights to millions of Americans as he stepped up efforts to rally his political base heading into a competitive midterm campaign season. Appearing at the annual\u0026nbsp;...",
+				"unescapedUrl":"http://www.nytimes.com/2014/04/12/us/politics/criticizing-gop-obama-says-the-right-to-vote-is-threatened.html",
+				"url":"http%3A%2F%2Fwww.nytimes.com%2F2014%2F04%2F12%2Fus%2Fpolitics%2Fcriticizing-gop-obama-says-the-right-to-vote-is-threatened.html",
+				"title":"\u003cb\u003eObama\u003c/b\u003e, Citing New Laws, Says the GOP Is Moving to Restrict Voting Rights",
+				"titleNoFormatting":"Obama, Citing New Laws, Says the GOP Is Moving to Restrict Voting Rights",
+				"location":"",
+				"publisher":"New York Times",
+				"publishedDate":"Fri, 11 Apr 2014 14:45:11 -0700",
+				"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.nytimes.com/2014/04/12/us/politics/criticizing-gop-obama-says-the-right-to-vote-is-threatened.html\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNEhSWboNZ22TncWdPOc-llI0VSVrA",
+				"language":"en",
+				"image":{
+					"url":"http://assets.nydailynews.com/polopoly_fs/1.1754045.1397265838!/img/httpImage/image.jpg_gen/derivatives/article_1200/obama.jpg",
+					"tbUrl":"http://t2.gstatic.com/images?q\u003dtbn:ANd9GcRC-fprbqfZiyDf8knDtHLyiTYYN8kWoxWx_a5jBnfVQRgJV8HLB3m0Jg",
+					"originalContextUrl":"http://www.nydailynews.com/news/politics/obama-stands-sharpton-accuses-republicans-threatening-voter-rights-article-1.1754048",
+					"publisher":"New York Daily News",
+					"tbWidth":80,
+					"tbHeight":60
+				},
+				"relatedStories":[
+					{
+						"unescapedUrl":"http://www.nydailynews.com/news/politics/obama-stands-sharpton-accuses-republicans-threatening-voter-rights-article-1.1754048",
+						"url":"http%3A%2F%2Fwww.nydailynews.com%2Fnews%2Fpolitics%2Fobama-stands-sharpton-accuses-republicans-threatening-voter-rights-article-1.1754048",
+						"title":"President \u003cb\u003eObama\u003c/b\u003e stands by Rev. Al Sharpton while accusing Republicans of \u003cb\u003e...\u003c/b\u003e",
+						"titleNoFormatting":"President Obama stands by Rev. Al Sharpton while accusing Republicans of ...",
+						"location":"",
+						"publisher":"New York Daily News",
+						"publishedDate":"Fri, 11 Apr 2014 18:41:15 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.nydailynews.com/news/politics/obama-stands-sharpton-accuses-republicans-threatening-voter-rights-article-1.1754048\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNEIT5m1BAHhCtDejHCUmFbY_N4kjA",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.washingtonpost.com/politics/obama-and-lbj-measuring-the-current-president-against-the-past-ones-legacy/2014/04/12/672718fe-c258-11e3-bcec-b71ee10e9bc3_story.html",
+						"url":"http%3A%2F%2Fwww.washingtonpost.com%2Fpolitics%2Fobama-and-lbj-measuring-the-current-president-against-the-past-ones-legacy%2F2014%2F04%2F12%2F672718fe-c258-11e3-bcec-b71ee10e9bc3_story.html",
+						"title":"\u003cb\u003eObama\u003c/b\u003e and LBJ: Measuring the current president against the past one\u0026#39;s legacy",
+						"titleNoFormatting":"Obama and LBJ: Measuring the current president against the past one\u0026#39;s legacy",
+						"location":"",
+						"publisher":"Washington Post",
+						"publishedDate":"Sat, 12 Apr 2014 10:23:09 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.washingtonpost.com/politics/obama-and-lbj-measuring-the-current-president-against-the-past-ones-legacy/2014/04/12/672718fe-c258-11e3-bcec-b71ee10e9bc3_story.html\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNGE43UdJT1JLv2ELNSUOPshCX2IhA",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.politico.com/story/2014/04/barack-obama-voting-rights-105645.html",
+						"url":"http%3A%2F%2Fwww.politico.com%2Fstory%2F2014%2F04%2Fbarack-obama-voting-rights-105645.html",
+						"title":"\u003cb\u003eObama\u003c/b\u003e: GOP wants to stop Democrats from voting",
+						"titleNoFormatting":"Obama: GOP wants to stop Democrats from voting",
+						"location":"",
+						"publisher":"Politico",
+						"publishedDate":"Fri, 11 Apr 2014 15:01:35 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.politico.com/story/2014/04/barack-obama-voting-rights-105645.html\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNGxVu0bInRsrDnUs49ucBz4CAymSA",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.msnbc.com/msnbc/obama-voting-rights-speech-national-action-network-summit",
+						"url":"http%3A%2F%2Fwww.msnbc.com%2Fmsnbc%2Fobama-voting-rights-speech-national-action-network-summit",
+						"title":"\u003cb\u003eObama\u003c/b\u003e: Voting rights under attack",
+						"titleNoFormatting":"Obama: Voting rights under attack",
+						"location":"",
+						"publisher":"MSNBC",
+						"publishedDate":"Fri, 11 Apr 2014 15:18:45 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.msnbc.com/msnbc/obama-voting-rights-speech-national-action-network-summit\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNHLe-xJWuLxOItImAd9o1flWcom_w",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://newyork.cbslocal.com/2014/04/11/obama-comes-to-nyc-to-speak-at-sharptons-national-action-network-convention/",
+						"url":"http%3A%2F%2Fnewyork.cbslocal.com%2F2014%2F04%2F11%2Fobama-comes-to-nyc-to-speak-at-sharptons-national-action-network-convention%2F",
+						"title":"\u003cb\u003eObama\u003c/b\u003e Comes To NYC To Speak At Sharpton\u0026#39;s National Action Network \u003cb\u003e...\u003c/b\u003e",
+						"titleNoFormatting":"Obama Comes To NYC To Speak At Sharpton\u0026#39;s National Action Network ...",
+						"location":"",
+						"publisher":"CBS Local",
+						"publishedDate":"Fri, 11 Apr 2014 11:35:18 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://newyork.cbslocal.com/2014/04/11/obama-comes-to-nyc-to-speak-at-sharptons-national-action-network-convention/\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNEY_ti1fGOPAECoz1ptlNw1Mq7JTQ",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.theroot.com/articles/culture/2014/04/obama_at_national_action_network_speech_focuses_on_voting_rights.html",
+						"url":"http%3A%2F%2Fwww.theroot.com%2Farticles%2Fculture%2F2014%2F04%2Fobama_at_national_action_network_speech_focuses_on_voting_rights.html",
+						"title":"At Sharpton Convention, \u003cb\u003eObama\u003c/b\u003e Slams Republicans for Restricting Voting",
+						"titleNoFormatting":"At Sharpton Convention, Obama Slams Republicans for Restricting Voting",
+						"location":"",
+						"publisher":"The Root",
+						"publishedDate":"Fri, 11 Apr 2014 14:33:45 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.theroot.com/articles/culture/2014/04/obama_at_national_action_network_speech_focuses_on_voting_rights.html\u0026cid\u003d43982375500192\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNErXRXBaisf_qoZOThyLQnnSyD1UQ",
+						"language":"en"
+					}
+				]
+			},
+			{
+				"GsearchResultClass":"GnewsSearch",
+				"clusterUrl":"http://news.google.com/news/story?ncl\u003ddoHa2cQlo0CzPQMuDocO7zZ-N3gBM\u0026hl\u003den\u0026ned\u003dus",
+				"content":"Washington (CNN) -- President Barack \u003cb\u003eObama\u003c/b\u003e announced Friday that he will nominate Sylvia Mathews Burwell, who currently directs the White House budget office, to be the next health secretary, the Cabinet official who\u0026#39;s ultimately responsible for\u0026nbsp;...",
+				"unescapedUrl":"http://www.cnn.com/2014/04/11/politics/burwell-hhs/",
+				"url":"http%3A%2F%2Fwww.cnn.com%2F2014%2F04%2F11%2Fpolitics%2Fburwell-hhs%2F",
+				"title":"Sebelius out, \u003cb\u003eObama\u003c/b\u003e nominates new health secretary",
+				"titleNoFormatting":"Sebelius out, Obama nominates new health secretary",
+				"location":"",
+				"publisher":"CNN",
+				"publishedDate":"Fri, 11 Apr 2014 08:09:07 -0700",
+				"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.cnn.com/2014/04/11/politics/burwell-hhs/\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNHe1mVxbS0DOOOptnQvBIDnYNMJWw",
+				"language":"en",
+				"image":{
+					"url":"http://i2.cdn.turner.com/cnn/dam/assets/140411195201-tsr-dnt-jones-sebelius-resigning-nominee-named-00011416-story-body.jpg",
+					"tbUrl":"http://t0.gstatic.com/images?q\u003dtbn:ANd9GcQEw8yGNBjZaUrhblT6fczx6Yv7gVlXBWfJXw25P7FVktHpIq34SRj0w4k",
+					"originalContextUrl":"http://www.cnn.com/2014/04/11/politics/burwell-hhs/",
+					"publisher":"CNN",
+					"tbWidth":80,
+					"tbHeight":45
+				},
+				"relatedStories":[
+					{
+						"unescapedUrl":"http://www.usatoday.com/story/news/politics/2014/04/11/obama-sylvia-mathews-burwell-kathleen-sebelius-health-care-health-and-human-services/7572171/",
+						"url":"http%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Fpolitics%2F2014%2F04%2F11%2Fobama-sylvia-mathews-burwell-kathleen-sebelius-health-care-health-and-human-services%2F7572171%2F",
+						"title":"\u003cb\u003eObama\u003c/b\u003e picks a new face of health care",
+						"titleNoFormatting":"Obama picks a new face of health care",
+						"location":"",
+						"publisher":"USA TODAY",
+						"publishedDate":"Fri, 11 Apr 2014 06:42:05 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.usatoday.com/story/news/politics/2014/04/11/obama-sylvia-mathews-burwell-kathleen-sebelius-health-care-health-and-human-services/7572171/\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNHEq3PYF5_MiAJ9aVLivgHzo2mDVQ",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.nytimes.com/2014/04/11/us/politics/budget-chief-sylvia-mathews-burwell-is-choice-as-new-health-secretary.html",
+						"url":"http%3A%2F%2Fwww.nytimes.com%2F2014%2F04%2F11%2Fus%2Fpolitics%2Fbudget-chief-sylvia-mathews-burwell-is-choice-as-new-health-secretary.html",
+						"title":"Budget Chief Is \u003cb\u003eObama\u0026#39;s\u003c/b\u003e Choice as New Health Secretary",
+						"titleNoFormatting":"Budget Chief Is Obama\u0026#39;s Choice as New Health Secretary",
+						"location":"",
+						"publisher":"New York Times",
+						"publishedDate":"Thu, 10 Apr 2014 15:58:47 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.nytimes.com/2014/04/11/us/politics/budget-chief-sylvia-mathews-burwell-is-choice-as-new-health-secretary.html\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNHkErwY2dV26PAdW5R8vz3nxbM4tQ",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.foxnews.com/politics/2014/04/11/obama-taps-budget-director-for-health-post-sebelius-resigns/",
+						"url":"http%3A%2F%2Fwww.foxnews.com%2Fpolitics%2F2014%2F04%2F11%2Fobama-taps-budget-director-for-health-post-sebelius-resigns%2F",
+						"title":"\u003cb\u003eObama\u003c/b\u003e taps budget director for health post, Sebelius resigns",
+						"titleNoFormatting":"Obama taps budget director for health post, Sebelius resigns",
+						"location":"",
+						"publisher":"Fox News",
+						"publishedDate":"Fri, 11 Apr 2014 08:03:43 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.foxnews.com/politics/2014/04/11/obama-taps-budget-director-for-health-post-sebelius-resigns/\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNGDycV2zTI_jd1Lzp7sz-ISDKuzxg",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.washingtonpost.com/national/health-science/for-hhs-hot-seat-obama-chooses-burwell-a-budget-wonk/2014/04/11/3845a9a6-c1ae-11e3-b574-f8748871856a_story.html",
+						"url":"http%3A%2F%2Fwww.washingtonpost.com%2Fnational%2Fhealth-science%2Ffor-hhs-hot-seat-obama-chooses-burwell-a-budget-wonk%2F2014%2F04%2F11%2F3845a9a6-c1ae-11e3-b574-f8748871856a_story.html",
+						"title":"For HHS hot seat, \u003cb\u003eObama\u003c/b\u003e chooses Burwell, a budget wonk",
+						"titleNoFormatting":"For HHS hot seat, Obama chooses Burwell, a budget wonk",
+						"location":"",
+						"publisher":"Washington Post",
+						"publishedDate":"Fri, 11 Apr 2014 18:06:53 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.washingtonpost.com/national/health-science/for-hhs-hot-seat-obama-chooses-burwell-a-budget-wonk/2014/04/11/3845a9a6-c1ae-11e3-b574-f8748871856a_story.html\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNH3ML5czisK3x1J8Ol6uLpqhATWNA",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.theatlantic.com/politics/archive/2014/04/what-kathleen-sebeliuss-exit-means-for-obama-and-obamacare/360509/",
+						"url":"http%3A%2F%2Fwww.theatlantic.com%2Fpolitics%2Farchive%2F2014%2F04%2Fwhat-kathleen-sebeliuss-exit-means-for-obama-and-obamacare%2F360509%2F",
+						"title":"What Sebelius\u0026#39;s Exit Means for \u003cb\u003eObama\u003c/b\u003e—and Obamacare",
+						"titleNoFormatting":"What Sebelius\u0026#39;s Exit Means for Obama—and Obamacare",
+						"location":"",
+						"publisher":"The Atlantic",
+						"publishedDate":"Thu, 10 Apr 2014 17:56:15 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.theatlantic.com/politics/archive/2014/04/what-kathleen-sebeliuss-exit-means-for-obama-and-obamacare/360509/\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNGhJp4vQdAkBY7o3GKXYWCUzP87Dw",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.reuters.com/article/2014/04/11/us-usa-healthcare-obama-idUSBREA3918920140411",
+						"url":"http%3A%2F%2Fwww.reuters.com%2Farticle%2F2014%2F04%2F11%2Fus-usa-healthcare-obama-idUSBREA3918920140411",
+						"title":"\u003cb\u003eObama\u003c/b\u003e puts fresh face on Obamacare with new health secretary",
+						"titleNoFormatting":"Obama puts fresh face on Obamacare with new health secretary",
+						"location":"",
+						"publisher":"Reuters",
+						"publishedDate":"Fri, 11 Apr 2014 08:03:12 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.reuters.com/article/2014/04/11/us-usa-healthcare-obama-idUSBREA3918920140411\u0026cid\u003d43982373945350\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNHQSvBoaX5u9njc1Ckkj8zPL0mYeg",
+						"language":"en"
+					}
+				]
+			},
+			{
+				"GsearchResultClass":"GnewsSearch",
+				"clusterUrl":"",
+				"content":"Austin, Texas (CNN) -- Honoring the legacy of a former president he\u0026#39;s barely mentioned previously, President Barack \u003cb\u003eObama\u003c/b\u003e on Thursday cast Lyndon B. Johnson\u0026#39;s push to end legal segregation as a factor in his own ascension to the White House. \u003cb\u003eObama\u003c/b\u003e\u0026nbsp;...",
+				"unescapedUrl":"http://www.cnn.com/2014/04/10/politics/obama-civil-rights/",
+				"url":"http%3A%2F%2Fwww.cnn.com%2F2014%2F04%2F10%2Fpolitics%2Fobama-civil-rights%2F",
+				"title":"\u003cb\u003eObama\u003c/b\u003e: LBJ \u0026#39;Great Society\u0026#39; legacy is \u0026#39;why I\u0026#39;m standing here today\u0026#39;",
+				"titleNoFormatting":"Obama: LBJ \u0026#39;Great Society\u0026#39; legacy is \u0026#39;why I\u0026#39;m standing here today\u0026#39;",
+				"location":"",
+				"publisher":"CNN",
+				"publishedDate":"Thu, 10 Apr 2014 06:58:04 -0700",
+				"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.cnn.com/2014/04/10/politics/obama-civil-rights/\u0026cid\u003d0\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNEwJ1PgfbY0o1EY77UslOPdavweZw",
+				"language":"en"
+			},
+			{
+				"GsearchResultClass":"GnewsSearch",
+				"clusterUrl":"http://news.google.com/news/story?ncl\u003dd7Xt4YqptF6go3MSVlHg0ghpR_j5M\u0026hl\u003den\u0026ned\u003dus",
+				"content":"Tickets to watch Denzel Washington on Broadway in \u0026quot;A Raisin in the Sun\u0026quot; are hard to come by, but one man managed it — President Barack \u003cb\u003eObama\u003c/b\u003e. The president and first lady caught the American masterpiece Friday night at the Ethel Barrymore Theatre,\u0026nbsp;...",
+				"unescapedUrl":"http://abcnews.go.com/Entertainment/wireStory/president-obama-attends-raisin-sun-23298761",
+				"url":"http%3A%2F%2Fabcnews.go.com%2FEntertainment%2FwireStory%2Fpresident-obama-attends-raisin-sun-23298761",
+				"title":"President \u003cb\u003eObama\u003c/b\u003e Attends \u0026#39;A Raisin in the Sun\u0026#39;",
+				"titleNoFormatting":"President Obama Attends \u0026#39;A Raisin in the Sun\u0026#39;",
+				"location":"",
+				"publisher":"ABC News",
+				"publishedDate":"Fri, 11 Apr 2014 18:48:54 -0700",
+				"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://abcnews.go.com/Entertainment/wireStory/president-obama-attends-raisin-sun-23298761\u0026cid\u003d43982373448497\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNGsn20J4FXdgj6GLjVjM6hG-FIAUQ",
+				"language":"en",
+				"image":{
+					"url":"http://www.hollywoodreporter.com/sites/default/files/imagecache/news_landscape/2014/02/michelle_obama_barack_obama_state_dinner_h.jpg",
+					"tbUrl":"http://t0.gstatic.com/images?q\u003dtbn:ANd9GcQBlMfQXKliDQq1Ze_FzExony_zsUSSbFHnetX0REQZQyF7jHLTWwbjAQmh",
+					"originalContextUrl":"http://www.hollywoodreporter.com/news/president-obama-first-lady-attend-695570?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+thr%2Fnews+(The+Hollywood+Reporter+-+Top+Stories)",
+					"publisher":"Hollywood Reporter",
+					"tbWidth":80,
+					"tbHeight":45
+				},
+				"relatedStories":[
+					{
+						"unescapedUrl":"http://politicalticker.blogs.cnn.com/2014/04/11/obama-caps-two-days-of-civil-rights-focus-at-landmark-play/",
+						"url":"http%3A%2F%2Fpoliticalticker.blogs.cnn.com%2F2014%2F04%2F11%2Fobama-caps-two-days-of-civil-rights-focus-at-landmark-play%2F",
+						"title":"\u003cb\u003eObama\u003c/b\u003e caps two days of civil rights focus at landmark play",
+						"titleNoFormatting":"Obama caps two days of civil rights focus at landmark play",
+						"location":"",
+						"publisher":"CNN (blog)",
+						"publishedDate":"Fri, 11 Apr 2014 17:23:17 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://politicalticker.blogs.cnn.com/2014/04/11/obama-caps-two-days-of-civil-rights-focus-at-landmark-play/\u0026cid\u003d43982373448497\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNGDjF7-yXsFrgMN7g4ihCLK_efLmA",
+						"language":"en"
+					},
+					{
+						"unescapedUrl":"http://www.hollywoodreporter.com/news/president-obama-first-lady-attend-695570?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+thr%2Fnews+(The+Hollywood+Reporter+-+Top+Stories)",
+						"url":"http%3A%2F%2Fwww.hollywoodreporter.com%2Fnews%2Fpresident-obama-first-lady-attend-695570%3Futm_source%3Dfeedburner%26utm_medium%3Dfeed%26utm_campaign%3DFeed%253A%2Bthr%252Fnews%2B%28The%2BHollywood%2BReporter%2B-%2BTop%2BStories%29",
+						"title":"President \u003cb\u003eObama\u003c/b\u003e, First Lady Attend Denzel Washington Broadway Play",
+						"titleNoFormatting":"President Obama, First Lady Attend Denzel Washington Broadway Play",
+						"location":"",
+						"publisher":"Hollywood Reporter",
+						"publishedDate":"Fri, 11 Apr 2014 18:37:58 -0700",
+						"signedRedirectUrl":"http://news.google.com/news/url?sa\u003dT\u0026ct2\u003dus\u0026fd\u003dS\u0026url\u003dhttp://www.hollywoodreporter.com/news/president-obama-first-lady-attend-695570%3Futm_source%3Dfeedburner%26utm_medium%3Dfeed%26utm_campaign%3DFeed%253A%2Bthr%252Fnews%2B(The%2BHollywood%2BReporter%2B-%2BTop%2BStories)\u0026cid\u003d43982373448497\u0026ei\u003dL61JU9DWEoKkwwHiJA\u0026usg\u003dAFQjCNHdQ-ZT6YWrfJUoKrse-c7CNjZLrw",
+						"language":"en"
+					}
+				]
+			}
+		],
+		"cursor":{
+			"pages":[
+				{
+					"start":"0",
+					"label":1
+				},
+				{
+					"start":"4",
+					"label":2
+				},
+				{
+					"start":"8",
+					"label":3
+				},
+				{
+					"start":"12",
+					"label":4
+				},
+				{
+					"start":"16",
+					"label":5
+				},
+				{
+					"start":"20",
+					"label":6
+				},
+				{
+					"start":"24",
+					"label":7
+				},
+				{
+					"start":"28",
+					"label":8
+				}
+			],
+			"estimatedResultCount":"417068807",
+			"currentPageIndex":0,
+			"moreResultsUrl":"http://news.google.com/nwshp?oe\u003dutf8\u0026ie\u003dutf8\u0026source\u003duds\u0026q\u003dObama\u0026hl\u003den\u0026start\u003d0"
+		}
+	},
+	"responseDetails":null,
+	"responseStatus":200
+}

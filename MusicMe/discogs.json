@@ -1,0 +1,110 @@
+Query http://api.discogs.com/database/search?type=artist&q=Lorde gives us:
+{
+	"pagination":{
+		"per_page":50,
+		"pages":1,
+		"page":1,
+		"urls":{
+			
+		},
+		"items":12
+	},
+	"results":[
+		{
+			"thumb":"http://api.discogs.com/image/A-90-3317315-1384080953-9522.jpeg",
+			"title":"Lorde",
+			"resource_url":"http://api.discogs.com/artists/3317315",
+			"type":"artist",
+			"uri":"/artist/Lorde",
+			"id":3317315
+		},
+		{
+			"thumb":"http://api.discogs.com/image/A-90-2628070-1333091511.jpeg",
+			"title":"Audre Lorde",
+			"resource_url":"http://api.discogs.com/artists/2628070",
+			"type":"artist",
+			"uri":"/artist/Audre+Lorde",
+			"id":2628070
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Eric Lorde",
+			"resource_url":"http://api.discogs.com/artists/442847",
+			"type":"artist",
+			"uri":"/artist/Eric+Lorde",
+			"id":442847
+		},
+		{
+			"thumb":"http://api.discogs.com/image/A-90-2283791-1346428832-1985.jpeg",
+			"title":"Lorde Awesome",
+			"resource_url":"http://api.discogs.com/artists/2283791",
+			"type":"artist",
+			"uri":"/artist/Lorde+Awesome",
+			"id":2283791
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Lorde Richard",
+			"resource_url":"http://api.discogs.com/artists/2902394",
+			"type":"artist",
+			"uri":"/artist/Lorde+Richard",
+			"id":2902394
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Orlando Lorde",
+			"resource_url":"http://api.discogs.com/artists/3500701",
+			"type":"artist",
+			"uri":"/artist/Orlando+Lorde",
+			"id":3500701
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Robert Lorde",
+			"resource_url":"http://api.discogs.com/artists/1005188",
+			"type":"artist",
+			"uri":"/artist/Robert+Lorde",
+			"id":1005188
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Chris Lorde-Alge",
+			"resource_url":"http://api.discogs.com/artists/3495867",
+			"type":"artist",
+			"uri":"/artist/Chris+Lorde-Alge",
+			"id":3495867
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Lorde Of All Desires",
+			"resource_url":"http://api.discogs.com/artists/944988",
+			"type":"artist",
+			"uri":"/artist/Lorde+Of+All+Desires",
+			"id":944988
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"My Lorde Sheriffe's Complainte",
+			"resource_url":"http://api.discogs.com/artists/2885136",
+			"type":"artist",
+			"uri":"/artist/My+Lorde+Sheriffe%27s+Complainte",
+			"id":2885136
+		},
+		{
+			"thumb":"http://api.discogs.com/images/default-artist.png",
+			"title":"Tony Williams (8)",
+			"resource_url":"http://api.discogs.com/artists/944991",
+			"type":"artist",
+			"uri":"/artist/Tony+Williams+%288%29",
+			"id":944991
+		},
+		{
+			"thumb":"http://api.discogs.com/image/A-90-1466506-1392310813-4798.jpeg",
+			"title":"John Joubert",
+			"resource_url":"http://api.discogs.com/artists/1466506",
+			"type":"artist",
+			"uri":"/artist/John+Joubert",
+			"id":1466506
+		}
+	]
+}
