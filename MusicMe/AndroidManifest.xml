@@ -18,7 +18,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.webdev357.musicme.MainActivity"
+            android:name=".MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,26 +27,42 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.webdev357.musicme.SettingsActivity"
+            android:name=".SettingsActivity"
             android:label="@string/title_activity_settings" >
         </activity>
         <activity
-            android:name="com.webdev357.musicme.GooglePlayLoginActivity"
+            android:name=".GooglePlayLoginActivity"
             android:label="@string/title_activity_google_play_login"
             android:windowSoftInputMode="adjustResize|stateVisible" >
         </activity>
         <activity
-            android:name="com.webdev357.musicme.MusicMeSettingsActivity"
+            android:name=".MusicMeSettingsActivity"
             android:label="@string/title_activity_music_me_settings" >
         </activity>
         <activity
-            android:name="com.webdev357.musicme.FoundMusicDisplay"
+            android:name=".FoundMusicDisplay"
             android:label="@string/title_activity_found_music_display" >
         </activity>
         <activity
-            android:name="com.webdev357.musicme.FoundMusicDisplayActivity"
+            android:name=".FoundMusicDisplayActivity"
             android:label="@string/title_activity_found_music_display"
-            android:parentActivityName="com.webdev357.musicme.MainActivity" >
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.webdev357.musicme.MainActivity" />
+        </activity>
+        <activity
+            android:name=".DisplayNewMusicActivity"
+            android:label="@string/title_activity_display_new_music"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.webdev357.musicme.MainActivity" />
+        </activity>
+         <activity
+            android:name=".AdvancedListViewActivity"
+            android:label="@string/title_activity_advanced_list_view_activity"
+            android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.webdev357.musicme.MainActivity" />

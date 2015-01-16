@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
 	android:layout_width="fill_parent" android:layout_height="0dp">
-	<ImageView android:id="@+id/album_img" android:layout_width="100dp"
+	<ImageView android:id="@+id/album_img" android:contentDescription="Album Image" android:layout_width="100dp"
 		android:layout_height="100dp" android:layout_margin="5dp" />
-	<TextView android:id="@+id/album_title"
-		android:layout_toRightOf="@id/album_img" android:layout_width="fill_parent"
-		android:layout_height="wrap_content" android:layout_margin="5dp" />
+
+	<TextView
+	    android:id="@+id/album_title"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dp"
+	    android:layout_toEndOf="@id/album_img"
+	    android:layout_toRightOf="@id/album_img" />
+	<LinkView
+	    android:id="@+id/link"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_margin="5dp"
+	    android:layout_toEndOf="@id/album_img"
+	    android:layout_toRightOf="@id/album_img" />
+	
 </RelativeLayout>

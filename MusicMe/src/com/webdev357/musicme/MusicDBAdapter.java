@@ -76,7 +76,8 @@ public class MusicDBAdapter extends SQLiteOpenHelper {
         return db.insert(DATABASE_TABLE, null, initialValues);
     }
     //---insert a Discogs artist/album into the database---
-    public long insertArtistDiscogs(SQLiteDatabase db, String artist, String album, Integer year) 
+    public long insertArtistDiscogs(SQLiteDatabase db, String artist, String album, Integer year,
+    		String tempThumb, String tempRole, String tempResourceurl) 
     {
         ContentValues initialValues = new ContentValues();
         initialValues.put(KEY_ARTIST, artist);
@@ -107,16 +108,19 @@ public class MusicDBAdapter extends SQLiteOpenHelper {
 		}
 		return artists;
 	}
-	
+	//public ArrayList<String> getAllArtistsIDontHave(SQLiteDatabase db) {
+	//	ArrayList<String> artistsalbumsyear;
 	//sqlGetAlbumsIDontHave
 	public ArrayList<String> getAllArtistsIDontHave(SQLiteDatabase db) {
 		ArrayList<String> artistsalbumsyear;
+		//String[] artistsalbumsyear;
 		Cursor c;
 		artistsalbumsyear = new ArrayList<String>();
 
 		c = db.rawQuery(sqlGetAlbumsIDontHave, null);
 		if (c.moveToFirst()) {
 			do {
+				//artistsalbumsyear[1]= c.getString(0) + ", Album:" + c.getString(1) + "(" + c.getString(2) + ")";
 				artistsalbumsyear.add(c.getString(0) + ", Album:" + c.getString(1) + "(" + c.getString(2) + ")");												
 			} while (c.moveToNext());
 		} else {

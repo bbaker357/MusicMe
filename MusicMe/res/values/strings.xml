@@ -37,5 +37,7 @@
     <string name="title_activity_music_me_settings">Music Me Settings</string>
     <string name="title_activity_found_music_display">New Music for You</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_new_music">DisplayNewMusicActivity</string>
+    <string name="title_activity_advanced_list_view_activity">New Music Not at Google Play</string>
 
 </resources>

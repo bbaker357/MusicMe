@@ -28,11 +28,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="libs/deskgmusicapi.jar" sourcepath="C:/Users/thor/workspace/MusicMe/libs/deskgmusicapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/deskgmusicapi.jar" sourcepath="libs/deskgmusicapi.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/gson-2.2.4-javadoc.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/gson-2.2.4-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/gson-2.2.4.jar"/>
 	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
 	<classpathentry kind="lib" path="libs/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/picasso-2.4.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
